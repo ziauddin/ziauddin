@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Laravel web framework based project
 - 🌱 I’m currently learning Laravel and React
 - 👯 I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: [@ziauddin](https://twitter.com/ziauddin47) or [@nawazsharif](https://www.linkedin.com/in/zia-uddin-177437b/) or <a rel="me" href="mailto:robin.cse.sust@gmail.com">Email</a>
+- 📫 How to reach me: [@ziauddin](https://twitter.com/ziauddin47) or [@ziauddin](https://www.linkedin.com/in/zia-uddin-177437b/) or <a rel="me" href="mailto:robin.cse.sust@gmail.com">Email</a>
 - 😄 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I Love to Traveling and mobile photography
 
